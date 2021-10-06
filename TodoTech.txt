@@ -1,0 +1,57 @@
+Amazon PinPoint Feature
+Template management tools( Stripo/BEE)
+Concept related to moving from ixFactor to AWS Pinpoint
+
+
+ Test driven development (TDD)- crash course : https://cognizant.udemy.com/course-dashboard-redirect/?course_id=1813988
+API development and integration using pub/sub model : https://dzone.com/articles/publishsubscribe-and-asynchronous-api-integrations
+API development using ASP.Net MVC, .NET Core(Focus on 3.1 version): https://cognizant.udemy.com/course/restful-apis-in-aspnet-core/
+https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/
+
+References:
+
+https://docs.aws.amazon.com/pinpoint/latest/userguide/message-templates-creating-email.html
+
+https://www.contentstack.com/
+
+As IS architechture:
+high level architecture
+description of the components
+
+sequence diagram & technical flow
+DB details
+Data models that are used while sending transaction emails/ from where data is captured
+
+https://support.stripo.email/en/articles/4803139-how-to-export-email-templates-to-amazon-pinpoint
+
+https://support.beefree.io/hc/en-us/articles/360011049780-Exporting-to-Amazon-SES
+
+https://stripo.email
+
+https://stripo.email/plugin-api/
+
+https://beefree.io/templates/
+
+https://docs.beefree.io/initializing-bee-plugin/
+
+
+Prerequisites
+Before you begin, perform the following tasks:
+
+Verify your email address with Amazon SES—Before you can send an email with Amazon SES, you must verify that you own the sender's email address. If your account is still in the Amazon SES sandbox, you must also verify the recipient email address. The easiest way to verify email addresses is by using the Amazon SES console. For more information, see Verifying email addresses in Amazon SES.
+
+Get your AWS credentials—You need an AWS access key ID and AWS secret access key to access Amazon SES using an SDK. You can find your credentials by using the Security Credentials page of the AWS Management Console. For more information about credentials, see Types of Amazon SES credentials.
+
+Install Visual Studio—Visual Studio is available at https://www.visualstudio.com/.
+
+Create a shared credentials file—For the sample code in this section to function properly, you must create a shared credentials file. For more information, see Create a shared credentials file.
+
+https://sts.affiniongroup.com/adfs/ls/IdpInitiatedSignOn.aspx?loginToRp=urn:amazon:webservices
+
+adfs-developers/SShinde@affinionds.com
+adfs-developers/VVinayagam@affinionds.com
+adfs-developers/SDange@affinionds.com
+
+Using Postman with AWS
+https://docs.aws.amazon.com/pinpoint/latest/developerguide/tutorials-using-postman-iam-user.html
+

@@ -1,0 +1,17 @@
+{ctscovidvaccine@mediassist.in
+
+ "From":"abc@gmail.com",
+ "To":"shivaji.shinde@tavisca.com",
+ "BCC":"",
+ "Subject":"Hi from AWS pin point",
+ "AppId" :"a69eaa87ebb14bb0a14ba2ddddd204e3",
+ "Region": "ap-south-1",
+ "AccessKey": "AKIA5WDAJQVT4XLL4VVL",
+ "SecretKey":"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",
+ "TextBody":"Amazon Pinpoint Email Test (.NET) --------------------------------This email was sent using the Amazon Pinpoint API using the AWS SDK for .NET.",
+ "HtmlBody":"<html> <head></head> <body>  <h1>Amazon Pinpoint Email Test (AWS SDK for .NET)</h1>  <p>This email was sent using the  <a href='https://aws.amazon.com/pinpoint/'>Amazon Pinpoint</a> API  using the <a href='https://aws.amazon.com/sdk-for-net/'>  AWS SDK for .NET</a>.</p></body></html>"
+}
+
+
+1. Create custom widget in Stripo to create templates--
+2. Create user journey using aws pin point. Based on events trigger mail
